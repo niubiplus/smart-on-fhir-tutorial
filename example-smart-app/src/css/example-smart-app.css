@@ -20,6 +20,7 @@ body {
 .spinner > div {
   width: 18px;
   height: 18px;
+  weight: 18px;
   background-color: #000;
 
   border-radius: 100%;
